@@ -8,7 +8,7 @@ for i in range(0,length):
      elif (brackets[i]=='('):
               b+=1
 if(a-b==0):
-	     print "Balanced"
+	     print "Yes"
 else:
-	     print  "Notbalanced"
+	     print  "No"
     
